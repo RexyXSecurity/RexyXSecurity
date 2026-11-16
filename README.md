@@ -108,25 +108,12 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
 
 <br><br>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22F700&center=true&vCenter=true&width=600&lines=REXY+%2F%2F+SECURITY+RESEARCHER;Think+Like+an+Attacker.;Learn.+Research.+Discover.;Securing+The+Digital+World." alt="Rexy Cyber Security Typing SVG" /><br>┌──(rexy㉿kali)-[~]
-└─$ whoami
-
-  Cyber Security Researcher
-  Web Security | Bug Hunting | Security Research
-
-┌──(rexy㉿kali)-[~]
-└─$ cat mission.txt
-
-  [+] Learn continuously
-  [+] Explore vulnerabilities
-  [+] Build security tools
-  [+] Make the internet safer
-
-┌──(rexy㉿kali)-[~]
-└─$ echo "Keep Learning. Keep Hacking."
-
-<br><img src="https://img.shields.io/badge/IDENTITY-REXY-22F700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-22F700?style=for-the-badge&labelColor=000000" /></div>
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
+<p align="center">
+<a>🌱</a>
+</p>
 
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
