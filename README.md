@@ -107,7 +107,6 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
   [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
 <br><br>
-
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
