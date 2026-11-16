@@ -96,12 +96,8 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
  
   [![Rexy GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RexyXSecurity)](https://github.com/RexyXSecurity/RexyXSecurity.git)
   [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RexyXSecurity&theme=radical" alt="RexyXSecurity GitHub Achievements" />
-</div>
 
 <br><br>
-
 
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
