@@ -108,12 +108,16 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
 
 <br><br>
 
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-<p align="center">
-<a>🌱</a>
-</p>
+<table>
+  <tr>
+    <td width="65%" align="center">
+      <img src="assets/rexy-banner.png" width="100%" alt="Rexy Cyber Security" />
+    </td>
+    <td width="35%" align="center">
+      https://github.com/RexyXSecurity/RexyXSecurity/edit/main/assets/banner.png
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
