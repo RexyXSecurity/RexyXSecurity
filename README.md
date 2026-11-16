@@ -114,7 +114,7 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
       <img src="assets/rexy-banner.png" width="100%" alt="Rexy Cyber Security" />
     </td>
     <td width="35%" align="center">
-      https://github.com/RexyXSecurity/RexyXSecurity/edit/main/assets/banner.png
+      https://raw.githubusercontent.com/RexyXSecurity/RexyXSecurity/refs/heads/main/assets/banner.png
     </td>
   </tr>
 </table>
