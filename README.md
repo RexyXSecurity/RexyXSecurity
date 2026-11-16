@@ -94,7 +94,6 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
 <h2 id="github_stats" align=''>GitHub Stats 👨💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Rexy GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RexyXSecurity)](https://github.com/RexyXSecurity/RexyXSecurity.git)
   [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
 <br><br>
