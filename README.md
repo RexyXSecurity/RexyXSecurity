@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+LuCyan+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rexy+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
 
@@ -16,19 +16,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`LuCyan`](https://github.com/LuCyanXsecurity)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: LuCyan
+- **Name**: Rexy
 - **From**: Internet 🌐
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **LuCyanXsecurity@gmail.com**
+- Reach me out at **whoisrexy1337@gmail.com**
 
 </details>
 <br>
@@ -94,9 +94,9 @@ I'm **[`LuCyan`](https://github.com/LuCyanXsecurity)**, a hacker & Security Rese
 <h2 id="github_stats" align=''>GitHub Stats 👨💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![LuCyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuCyanXsecurity&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/LuCyanXsecurity/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LuCyanXsecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/LuCyanXsecurity/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCyanXsecurity&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![rexy GitHub stats](https://github-readme-stats.vercel.app/api?username=RexyXSecurity&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/RexyXSecurity/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/RexyXSecurity/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexyXSecurity&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
