@@ -104,7 +104,7 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
 <h2 id="github_stats" align=''>GitHub Stats 👨💻</h2>
 <img align="right" width="40%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=100&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RexyXSecurity&theme=dark&card_width=300&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
 <br><br>
 <p align="center">
