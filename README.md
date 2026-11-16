@@ -23,7 +23,7 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
   <summary>More about me</summary>
 
 - **Name**: Rexy
-- **From**: Internet 🌐
+- **From**: Internet
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
@@ -53,38 +53,48 @@ I'm **[`Rexy`](https://github.com/RexyXSecurity)**, a hacker & Security Research
 
 ---
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2><br><div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  <!-- Web Application Security -->
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&color=000000" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&color=000000" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logo=linux&color=000000" alt="FFUF" />
+  <img src="https://img.shields.io/badge/Nikto-008080?style=for-the-badge&logo=linux&color=000000" alt="Nikto" />
 
-<br>
+  <!-- Reconnaissance & OSINT -->
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Amass-FF6F00?style=for-the-badge&logo=linux&color=000000" alt="Amass" />
+  <img src="https://img.shields.io/badge/Subfinder-00AEEF?style=for-the-badge&logo=linux&color=000000" alt="Subfinder" />
+  <img src="https://img.shields.io/badge/HTTPx-000000?style=for-the-badge&logo=linux&color=000000" alt="HTTPx" />
+  <img src="https://img.shields.io/badge/Whois-555555?style=for-the-badge&logo=linux&color=000000" alt="Whois" />
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+  <!-- Network Security -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Tcpdump-444444?style=for-the-badge&logo=linux&color=000000" alt="Tcpdump" />
+  <img src="https://img.shields.io/badge/Netcat-333333?style=for-the-badge&logo=linux&color=000000" alt="Netcat" />
+
+  <!-- Penetration Testing -->
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Hydra-CC0000?style=for-the-badge&logo=linux&color=000000" alt="Hydra" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=linux&color=000000" alt="John The Ripper" />
+  <img src="https://img.shields.io/badge/Gobuster-FF4500?style=for-the-badge&logo=linux&color=000000" alt="Gobuster" />
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&color=000000" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=archlinux&color=000000" alt="BlackArch" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+
+  <!-- Programming & Scripting -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&color=000000" alt="Bash" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+
+  <!-- Security Labs & Research -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&color=000000" alt="OWASP" />
+
   </div>
 </div>
 
